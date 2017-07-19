@@ -20,7 +20,7 @@ arXiv preprint arXiv:1612.04402, 2016.
 * then save them in the result file "./results/test_stair_enter_results/"
 
 * average processing time is 2.6 seconds
-* total processing time is 164.96s while processing 55 images which is obviously faster than the original code by matlab（https://github.com/peiyunh/tiny） which is 212s.
+* total processing time is 164.96s of processing 55 images which is obviously much faster than the original code by matlab（https://github.com/peiyunh/tiny） which is 1060s.
 
 ## Using method:
 
