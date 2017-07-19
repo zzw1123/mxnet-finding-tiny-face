@@ -1,5 +1,5 @@
 # mxnet-finding-tiny-face
-======
+
 Declaration:
 -----
 the code is used to do face detection 
